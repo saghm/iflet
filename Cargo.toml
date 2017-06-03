@@ -1,0 +1,12 @@
+[package]
+authors = ["Saghm Rossi <saghmrossi@gmail.com>"]
+description = "Provides a macro to chain multiple patterns in an `if let` rather than nesting them"
+documentation = "https://github.com/saghm/iflet"
+keywords = ["if", "let", "chain", "match", "pattern"]
+license = "Apache-2.0"
+name = "iflet"
+readme = "README.md"
+repository = "https://github.com/saghm/iflet"
+version = "0.1.0"
+
+[dependencies]
