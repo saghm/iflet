@@ -10,3 +10,6 @@ repository = "https://github.com/saghm/iflet"
 version = "0.1.0"
 
 [dependencies]
+
+[dev-dependencies]
+serde_json = "1.0.2"
